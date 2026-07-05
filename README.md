@@ -40,5 +40,4 @@ https://mohsin-portfolio-nu.vercel.app
 
 ## Contact
 
-Email: mohsinjawad592@gmail.com
-LinkedIn: (Add your LinkedIn)
+Email: qazi77443@gmail.com
